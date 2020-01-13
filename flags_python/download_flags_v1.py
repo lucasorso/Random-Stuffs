@@ -13,7 +13,7 @@ from urllib.request import urlopen
 # Version 1.0
 
 IMG_URL = "https://www.countryflags.io/{}/{}/64.png"
-IMG_PATH = "images/{}/"
+IMG_PATH = "images_v1/{}/"
 
 SHINY = 'shiny'
 FLAT = 'flat'
